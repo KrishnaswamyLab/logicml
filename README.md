@@ -34,7 +34,7 @@ Directly jump to the content you are looking for.<br><br>
 **NOTE:** The following steps only have to be done once (especially the compilations of ABC and LogicNet - hence, step 3-7 - since the compiled execution files are part of the `.gitignore` file and will be left untouched once updating the repository).
 
 **Step 1:** Clone this git repository:
-`git clone https://github.com/schlaumli/logicml`
+`git clone https://github.com/KrishnaswamyLab/logicml`
 `cd logicml`
 
 **Step 2:** If you want to use your Python 3.7 interpreter directly, please check that you have all packages pip-installed that are listed in the `requirements.yml`-file. Otherwise, if you want to create an anaconda environment with the requirements of `logicml`, you can use the following commands: 
