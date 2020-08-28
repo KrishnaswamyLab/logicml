@@ -1,0 +1,29 @@
+name: logicml_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.7
+  - setuptools
+  - pip:
+    - scikit-learn
+    - numpy
+    - pandas
+    - matplotlib
+    - tensorboard
+    - tensorflow
+    - tensorboardX
+    - torch
+    - torchvision 
+    - argparse
+    - psutil
+    - filelock
+    - graphviz
+    - pathlib
+    - torchviz
+    - pydot
+    - jupyter
+    - pylint
+    - notebook
+    - pip

@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom
+.idea/
+*.pyc
+**/__pycache__/
+**/.DS_Store
+*.aux
+*.idx
+*.lof
+*.log
+*.nlo
+*.out
+*.bbl
+*.blg
+*.gz
+*.toc
+*.npy
+*.tt
+*.expr
+**/results/
+**/data/mnist
+**/code/abc_synthesis/libabc.a
+**/code/abc_synthesis/abc
+
